@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+A feature that would be useful in the future is the ability to order items from the menu online for pickup at the coffee shop.
