@@ -31,6 +31,22 @@
   box-sizing: border-box;
   border-color: #838383;
   border-width: 1px;
+  border-style: solid;
+  font-family: Inter, Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  color: #000000;
+}
+
+.form__input::placeholder {
+  font-family: Inter, Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  color: #838383;
 }
 
 .form__button {
@@ -43,6 +59,11 @@
   min-height: 60px;
   color: #fff;
   transition: opacity 0.2s linear;
+  font-family: Inter, Arial, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .form__button:hover {

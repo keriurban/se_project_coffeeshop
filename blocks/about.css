@@ -19,7 +19,6 @@
   position: relative;
   box-sizing: border-box;
   display: flex;
-  gap: 20px;
 }
 
 .about__title {
